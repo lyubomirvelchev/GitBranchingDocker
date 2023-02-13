@@ -2,7 +2,6 @@ a = "LyubakaMadafaka"
 
 
 def hello():
-    print(a)
     print('changes in main branch')
 
 
